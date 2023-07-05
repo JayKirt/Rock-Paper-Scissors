@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+  }
+  
+  #game {
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .choices {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    display: block;
+    margin: 5px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #f0f0f0;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 20px;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  #result.show {
+    opacity: 1;
+  }
