@@ -9,4 +9,4 @@
   <li>Add user generated names.</li>
 </ul>
 
-<p> A simple vs the computer HTML based naughts and crosses game. </p>
+<p>A simple vs the computer HTML based naughts and crosses game.</p>
