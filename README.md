@@ -1,6 +1,6 @@
 <h1> <ins> Rock-Paper-Scissors. </ins> </h1>
 
-<h2>A simple rock paper and scissors game.</h2>
+<h2> A simple rock paper and scissors game. </h2>
 
 <h4><ins>To Do:</ins></h4>
 <ul> 
