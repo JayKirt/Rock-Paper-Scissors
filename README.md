@@ -2,7 +2,7 @@
 
 <h2> A simple rock paper and scissors game. </h2>
 
-<h4><ins>To Do:</ins></h4>
+<h4> <ins> To Do: </ins> </h4>
 <ul> 
   <li>Add animations.</li>
   <li>Add a score.</li>
