@@ -6,7 +6,7 @@
 <ul> 
   <li> Add animations.</li>
   <li> Add a score.</li>
-  <li> Add user generated names.</li>
+  <li> Add user generated names. </li>
 </ul>
 
 <p> A simple vs the computer HTML based Rock Paper and Scissors game. </p>
