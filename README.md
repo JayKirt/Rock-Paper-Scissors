@@ -4,7 +4,7 @@
 
 <h4> <ins> To Do: </ins> </h4>
 <ul> 
-  <li> Add animations.</li>
+  <li> Add animations. </li>
   <li> Add a score. </li>
   <li> Add user generated names. </li>
 </ul>
